@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason Turner"
+title                    : "Wellcompletions.com"
 title_separator          : "-"
-name                     : &name "Jason Turner"
+name                     : &name "Wellcompletions.com"
 description              : &description "Work Projects Blog"
 url                      : https://wellcompletions.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
