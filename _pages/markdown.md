@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+---
 
 ## Locations of key files/directories
 
@@ -15,7 +16,7 @@ redirect_from:
   * _publications/
   * _portfolio/
   * _posts/
-  * _favorites/
+  * _teaching/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
