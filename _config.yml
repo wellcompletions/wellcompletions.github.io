@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  youtube:
+  favorites:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # youtube
+  # favorites
   - scope:
       path: ""
-      type: youtube
+      type: favorites
     values:
       layout: single
       author_profile: true

@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Favorite YouTube Channels"
-permalink: /youtube/
+title: "Favorite Content"
+permalink: /favorites/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.youtube reversed %}
+{% for post in site.favorites reversed %}
   {% include archive-single.html %}
 {% endfor %}

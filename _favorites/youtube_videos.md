@@ -1,7 +1,7 @@
 ---
 title: "YouTube Favorites"
-collection: youtube
-permalink: /youtube/youtube_videos
+collection: favorites
+permalink: /favorites/youtube_videos
 ---
 
 This is a list of youtube videos.
