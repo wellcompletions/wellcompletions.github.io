@@ -17,6 +17,6 @@ This is a list of YouTube videos that I watch the most.
 [Binging with Babish](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw "Binging with Babish") - Great content.
 
 ## Programming
-[Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5gQ "Corey Schafer") - Great Beginner site for Python
+[Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5gQ "Corey Schafer") - Great Beginner site for Python.
 
 [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ "Engineer Man") - xUbuntu Linux Pro.
