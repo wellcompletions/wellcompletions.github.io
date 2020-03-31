@@ -6,6 +6,9 @@ permalink: /favorites/websites
 
 A small collection of sites that I enjoy or use.
 
+## Statistics
+[Worldometers](https://worldometers.info "Worldometers") Tracking population and Covid-19
+
 ## Machining
 [Achim Steinke](https://metallmodellbau.de "Achim Steinke") Super amazing style of brass and aluminum. 
 
