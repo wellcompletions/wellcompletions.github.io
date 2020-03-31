@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # favorites
+  # _favorites
   - scope:
       path: ""
       type: favorites
