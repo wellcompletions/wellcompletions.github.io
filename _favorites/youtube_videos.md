@@ -4,14 +4,16 @@ collection: favorites
 permalink: /favorites/youtube_videos
 ---
 
-This is a list of YouTube videos.
+This is a list of YouTube videos that I watch the most.
 
 Machining
 ======
-This old Tony [link](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ "This Old Tony").
+[This Old Tony](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ "This Old Tony")
 
-Heading 2
+Cooking
 ======
+[Binging with Babish](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw "Binging with Babish")
 
-Heading 3
+Programming
 ======
+[Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ "Engineer Man")
