@@ -1,14 +1,14 @@
 ---
-title: "YouTube Favorites"
+title: "YouTube"
 collection: favorites
 permalink: /favorites/youtube_videos
 ---
 
-This is a list of youtube videos.
+This is a list of YouTube videos.
 
 Machining
 ======
-This is an example of a [link](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ "This Old Tony").
+This old Tony [link](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ "This Old Tony").
 
 Heading 2
 ======
