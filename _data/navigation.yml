@@ -4,8 +4,8 @@ main:
   - title: "Favorites" 
     url: /favorites/   
      
-  - title: "Guide"
-    url: /markdowner/   
+  - title: "Guide" 
+    url: /markdown/   
     
  # - title: "Portfolio"
  #   url: /portfolio/
