@@ -1,7 +1,7 @@
 ---
 title: "YouTube"
 collection: favorites
-permalink: /favorites/youtube_videos
+permalink: /favorites/youtube
 ---
 
 This is a list of YouTube videos that I watch the most.

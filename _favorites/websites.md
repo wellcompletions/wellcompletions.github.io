@@ -4,8 +4,8 @@ collection: favorites
 permalink: /favorites/websites
 ---
 
-This is a list of interesting web sites.
+A small collection of sites that I enjoy or use.
 
 Machining
 ======
-Achim Steinke [link](https://metallmodellbau.de "Achim Steinke").
+[Achim Steinke](https://metallmodellbau.de "Achim Steinke") Super amazing style of brass and aluminum.
