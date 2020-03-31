@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wellcompletions.com"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,4 +10,4 @@ redirect_from:
 
 Just a place to post interesting stuff.
 
-under construction 
+Under construction.
