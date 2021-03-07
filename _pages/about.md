@@ -10,13 +10,12 @@ redirect_from:
 
 ## Welcome
 
-I started this site as a way to keep up my programming hobby, not really having a goal for specific content.  I thought I might use it as you might use a notebook - where I could grab stuff I needed of my phone when I'm out in the field. 
+I started this site as a way to keep up my programming hobby, not really having a goal for specific content.  I thought I might use it as you might use a notebook - where I could grab stuff I needed of my phone when I'm out in the field.
 
 It's eventually become a place to post interesting stuff, and always under construction.
 Most everyone ends up here to see what the deal is with my E-Mail address - so hello to all you cyber stalkers out there!  I've had a lot of people come up at work and mention that they saw the site, and give me ideas and requests on stuff to post.
 
 I started the whole thing over on the free servers at GitHub to learn more about software version control, so it may be a little before you see all the other content I had up on the old site.
-
 ## Programming
 
 I get a lot of questions about the best place to get started learning programming.  First and foremost, I would recommend learning Microsoft Excel.  Google Sheets is ok too, but sometimes there are formulas that don't work the same etc.  Once you have the hang of that, then try to get into coding. The important thing to do is figure out something that you like and start tracking it.  For the most part when you are at work, everything is protected so you can't mess with it, so you never get a chance to dig a little deeper.  A little joke we hear at work is that you see a lot of people that paid to get college degrees, and all they do is use simple formulas in Excel and enter numbers all day.
